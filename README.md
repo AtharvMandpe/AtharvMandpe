@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharv Mandpe</h1>
-- 🌱 I’m currently learning **Rust, Flutter**
+- 🌱 I’m currently learning  <strong>Rust, Flutter</strong>
 
 - 💬 Ask me about **Competitive programming, Web development, Blockchain development, App development, C++**
 
