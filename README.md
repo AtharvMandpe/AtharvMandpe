@@ -9,19 +9,18 @@
 
 - **IIT Madras CP Potpourri Competition:** 
   - Won 3rd Prize. 
-  - Received Cash Prize of Rs. 5000 and Certificate (1/2024)
+  - Received Cash Prize of Rs. 5000(1/2024)
 
 - **Reverse Coding at PICT:** 
   - Won 1st Prize. 
-  - Received Cash Prize of Rs. 5000 and Certificate (2023)
+  - Received Cash Prize of Rs. 5000(2023)
 
 - **PICT Clash Competition:** 
   - Won 2nd Prize in Competitive Programming. 
-  - Received Cash Prize of Rs. 4000 and Certificate (2023)
+  - Received Cash Prize of Rs. 4000(2023)
 
 - **CodeZest 2024 (IEEE, VIT Pune):** 
-  - Won 3rd Prize. 
-  - Received Certificate (2024)
+  - Won 3rd Prize.
 
 
 <h3 align="left">Connect with me:</h3>
