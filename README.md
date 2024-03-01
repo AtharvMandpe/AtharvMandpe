@@ -3,12 +3,25 @@
 - I'm **4-Star** on Codechef ( Max Rating - 1834 ) and **Specialist** on Codeforces ( Max Rqting - 1551 )
 - 📫 How to reach me **atharvmandpe2@gmail.com**
 
-- Achievements  	
-•	National Hackathon: Shortlisted for Smart India Hackathon Finals (11/2023)
-•	IIT Madras: Won 3rd Prize in CP Potpourri(Competitive Programming)Competition. Received Cash Prize of Rs.5000 Certificate (1/2024)
-•	Reverse Coding: Won 1st Prize in Reverse Coding at PICT. Received Cash Prize of Rs.5000  Certificate (2023)
-•	PICT: Won 2st Prize in Clash ( Competitive Programming ) Competition at PICT. Received Cash Prize of Rs.4000  Certificate (2023)
-•	CodeZest: Won 3rd Prize in CodeZest’ 2024 oranized by IEEE, VIT Pune Certificate (2024)
+### Achievements
+
+- **National Hackathon:** Shortlisted for Smart India Hackathon Finals (11/2023)
+
+- **IIT Madras CP Potpourri Competition:** 
+  - Won 3rd Prize. 
+  - Received Cash Prize of Rs. 5000 and Certificate (1/2024)
+
+- **Reverse Coding at PICT:** 
+  - Won 1st Prize. 
+  - Received Cash Prize of Rs. 5000 and Certificate (2023)
+
+- **PICT Clash Competition:** 
+  - Won 2nd Prize in Competitive Programming. 
+  - Received Cash Prize of Rs. 4000 and Certificate (2023)
+
+- **CodeZest 2024 (IEEE, VIT Pune):** 
+  - Won 3rd Prize. 
+  - Received Certificate (2024)
 
 
 <h3 align="left">Connect with me:</h3>
