@@ -94,10 +94,10 @@ I'm a passionate developer focused on **Competitive Programming, Web Development
   <a href="https://instagram.com/atharvmandpe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharvmandpe" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/atharv234" target="blank">
+  <a href="https://www.codechef.com/users/sweet_oasis_62" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atharv234" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/atharvmandpe2t" target="blank">
+  <a href="https://codeforces.com/profile/atharvmandpe2" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atharvmandpe2t" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/atharvmb7cx" target="blank">
