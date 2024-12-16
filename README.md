@@ -3,7 +3,7 @@
 I'm a passionate developer focused on **Competitive Programming, Web Development, Blockchain Development, and App Development**. Currently pursuing a **BTech in Computer Engineering** at Vishwakarma Institute of Technology, Pune.
 
 - 🌟 **Competitive Programming**:
-  - **CodeChef**: 4-Star (Max Rating: 1946)
+  - **CodeChef**: 5-Star (Max Rating: 2004)
   - **CodeForces**: Specialist (Max Rating: 1597)
 - 💼 Reach me at **atharvmandpe2@gmail.com**
 
