@@ -4,7 +4,7 @@ I'm a passionate developer focused on **Competitive Programming, Web Development
 
 - 🌟 **Competitive Programming**:
   - **CodeChef**: 5-Star (Max Rating: 2004)
-  - **CodeForces**: Expert (Max Rating: 1634)
+  - **CodeForces**: Expert (Max Rating: 1659)
 - 💼 Reach me at **atharvmandpe2@gmail.com**
 
 ## 🔧 Languages & Tools
